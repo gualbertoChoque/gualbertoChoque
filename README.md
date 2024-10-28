@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gualberto</h1>
-<h3 align="center">I am a student of Systems Engineering at the Universidad Mayor de San Simón and a passionate frontend developer. I am currently expanding my skills in backend technologies to transition into a full-stack developer role. My background also includes knowledge in Software Quality Assurance (QA), which strengthens my commitment to building high-quality applications. I am passionate about web development and constantly eager to learn new things in the ever-evolving world of technology.</h3>
+<h3 align="center">I am a student of Systems Engineering at the Universidad Mayor de San Simón and a passionate frontend developer.</h3>
+<h3 align="center">I am currently expanding my skills in backend technologies to transition into a full-stack developer role. </h3>
+<h3 align="center">My background also includes knowledge in Software Quality Assurance (QA), which strengthens my commitment to building high-quality applications. </h3>
+<h3 align="center">My background also includes knowledge in Software Quality Assurance (QA), which strengthens my commitment to building high-quality applications.</h3>
+<h3 align="center">I am passionate about web development and constantly eager to learn new things in the ever-evolving world of technology.</h3>
 
 - 🌱 I’m currently learning **spring boot,Angular**
 
